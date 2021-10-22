@@ -14,6 +14,6 @@ Howdyyy 🤠. This repo is a fun little personal project that I used to get my f
   * <a href="https://www.airbnb.com/rooms/13925864?source_impression_id=p3_1634871163_ljIRjknK7Sxq5Fjb" target="_blank"> Most expensive </a>: $10,000 (surely a listing mistake?)
   * <a href="https://www.airbnb.com/rooms/34071681?source_impression_id=p3_1634871370_vf7ADDNtV0fjwGBF" target="_blank">Most reviewed</a>: 1009 reviews
   * <a href="https://www.airbnb.com/rooms/45910?source_impression_id=p3_1634873288_gLh%2BUToQlso1asrH" target="_blank">Most accomodating</a>: 16 people
-  * <a href="https://www.airbnb.com/rooms/43298710?source_impression_id=p3_1634872166_82xSpr0y%2FA5p8Yi1" target="_blank">Person with most listings</a> : June from June Homes who has >= 335 listings 🤑
+  * <a href="https://www.airbnb.com/rooms/43298710?source_impression_id=p3_1634872166_82xSpr0y%2FA5p8Yi1" target="_blank">Person with most listings</a> : June from June Homes who has 335 listings 🤑
 
 * One major future improvement is to use multiple datasets of different dates in order to predict airbnb prices throughout the year.
